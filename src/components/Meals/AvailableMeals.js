@@ -7,25 +7,25 @@ const DUMMY_MEALS = [
     id: 'm1',
     name: 'Club Sandwich',
     description: 'Comes with fresh fries or Chips',
-    price:22.99,
+    price:150,
   },
   {
     id: 'm2',
     name: 'Yomari',
     description: 'A newari specialty!',
-    price: 16.5,
+    price: 120,
   },
   {
     id: 'm3',
     name: 'Momo',
     description: 'Dumplings with sauce',
-    price: 12.99,
+    price: 110,
   },
   {
     id: 'm4',
     name: 'Chowmein',
     description: 'Healthy...and green...',
-    price: 18.99,
+    price: 100,
   },
 ];
 
